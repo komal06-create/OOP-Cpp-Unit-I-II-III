@@ -1,0 +1,24 @@
+===== BANKING SYSTEM =====
+Deposited: Rs. 5000
+Withdrawn: Rs. 2000
+Deposited: Rs. 10000
+Withdrawn: Rs. 5000
+Deposited: Rs. 20000
+
+--- Savings Account ---
+Account Number: 101
+Holder Name: Amit
+Balance: Rs. 53000
+Interest: Rs. 2120
+
+--- Current Account ---
+Account Number: 102
+Holder Name: Sneha
+Balance: Rs. 80000
+Interest: Rs. 0
+
+--- Fixed Deposit Account ---
+Account Number: 103
+Holder Name: Rohan
+Balance: Rs. 120000
+Interest: Rs. 8400

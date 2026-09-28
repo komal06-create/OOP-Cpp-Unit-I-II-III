@@ -1,0 +1,6 @@
+=== Product Catalog ===
+ID: 1001 | Product: Laptop | Price: Rs. 55000 | Stock: 15
+ID: 1002 | Product: Mouse | Price: Rs. 450 | Stock: 50
+ID: 1003 | Product: Keyboard | Price: Rs. 1200 | Stock: 30
+
+Total Products in Catalog: 3

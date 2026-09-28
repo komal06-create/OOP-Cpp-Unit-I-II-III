@@ -1,0 +1,22 @@
+===== MEDIA PLAYER =====
+
+--- Audio ---
+Title: My Song
+File: song.mp3
+Playing audio: My Song
+Audio paused: My Song
+Audio stopped: My Song
+
+--- Video ---
+Title: My Video
+File: video.mp4
+Playing video: My Video
+Video paused: My Video
+Video stopped: My Video
+
+--- Image ---
+Title: My Photo
+File: photo.jpg
+Displaying image: My Photo
+Image display paused: My Photo
+Image display stopped: My Photo

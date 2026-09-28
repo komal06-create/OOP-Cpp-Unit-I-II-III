@@ -1,0 +1,28 @@
+===== SMART HOME DASHBOARD =====
+L001 switched ON.
+T001 switched ON.
+C001 switched ON.
+
+--- Light ---
+Device ID: L001
+Location: Living Room
+Status: ON
+Last Updated: 10:30 AM
+
+--- Thermostat ---
+Device ID: T001
+Location: Bedroom
+Status: ON
+Last Updated: 10:30 AM
+
+--- Camera ---
+Device ID: C001
+Location: Main Door
+Status: ON
+Last Updated: 10:30 AM
+
+--- Door Lock ---
+Device ID: D001
+Location: Main Door
+Status: UNLOCKED
+Last Updated: 10:40 AM
